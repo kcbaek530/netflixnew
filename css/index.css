@@ -286,7 +286,9 @@ footer { width: 100%; padding: 0 40px;}
 #language_form { border: 1px solid rgb(255,255,255); height: 40px; padding: 5px 10px; border-radius: 4px;
 margin: 40px 0 0 0;}
 
-#language { width: 80px; height: 30px; background-color: rgb(0,0,0); color:rgb(255,255,255); border: none;}
+#language { width: 80px; height: 30px; background-color: rgb(0,0,0); color:rgb(255,255,255); border: none; -moz-appearance: none; 
+	-webkit-appearance: none; 
+	appearance: none;}
 
 #language_form img {width: 16px;  vertical-align: middle; margin: 0 10px 0 0;}
 
