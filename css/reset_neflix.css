@@ -1,9 +1,5 @@
 * {margin: 0; padding: 0; box-sizing: border-box;}
-*:focus { 
-    outline: 0;
-}
+*:focus { outline: 0; }
 
-
-출처: https://cpdev.tistory.com/134 [하루하나]
 ul { list-style: none; }
 a { text-decoration: none;}
